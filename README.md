@@ -1,4 +1,6 @@
-Mahendra-chaudhary 👋
+# Mahendra-chaudhary 👋
+This is my first Git Repository.
+<br>
 author-mahendra chaudhary
 
 <!--
